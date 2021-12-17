@@ -10,6 +10,6 @@
 
 - ⚡ About me: I love music (I play bass), cooking, and code interesting websites.
 
-- 📝 Resume
+- 📝 ![My resume][Resume]
 
 [Resume]: CV-JorgePérez.pdf
