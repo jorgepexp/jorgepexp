@@ -12,4 +12,4 @@
 
 - 📝 Resume
 
-[Resume]: resume.pdf
+[Resume]: CV-JorgePérez.pdf
