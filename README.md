@@ -8,7 +8,7 @@
 
 - 🌱 Always learning anything related to web development that catches my eye.
 
-- ⚡ About me: I love music (I play bass), cooking, and code interesting websites.
+- ⚡ About me: I love music (I play bass), cooking and having a good time whenever I can.
 
 - 📝 ![My resume][Resume]
 
