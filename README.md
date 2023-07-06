@@ -4,7 +4,7 @@
 
 - 😄 An Spanish web developer looking for a job to keep improving in the sector.
 
-- 🔭 I’m currently working on Vue & React Projects, with MongoDB backend and a focus on JS utilities.
+- 🔭 I’m currently working on React & Vue Projects ,with MongoDB or Node backends with a focus on Typescript.
 
 - 🌱 Always learning anything related to web development that catches my eye.
 
